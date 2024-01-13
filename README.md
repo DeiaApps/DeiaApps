@@ -1,15 +1,17 @@
 - 👋 Hi! I'm Andréa, an enthusiastic app developer intrigued by Android mobile development.
 - 🌐 Currently, I'm expanding my knowledge in mobile programming with aspirations to become a fullstack developer.
+- 🎓 Holding a postgraduate degree in Human Resources Management, I bring a unique perspective to my app development journey. In addition to my academic background, I've successfully completed three Android Development courses and currently engaged in another.
 - 💞️ I'm interested in collaborating on solutions to tackle business challenges and meet market requirements.
 <br><br>
 ## 🚀 Proficiencies:
 | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" /> | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" /> | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> |
-| --- | --- | --- | --- | --- | --- |
+|
 <br><br>
 ## 📂 Projects 
-### 🎉Published Projects
-- [Placas Game](https://play.google.com/store/apps/details?id=com.deiapp.plakasgame) - **Jogo de Memória de Placas de Trânsito: Educação e Diversão**
-
+### Published Projects 👩‍💻
+Esses são projetos concluídos e publicados. Confira na Google Play e divirta-se!
+-**Placas Game.** Jogo de Memória de Placas de Trânsito: Educação e Diversão. [Placas Game](https://play.google.com/store/apps/details?id=com.deiapp.plakasgame) 🔍
+  
 Desenvolvi este jogo de memória  voltado para educação no trânsito, onde os jogadores podem aprender os significados das placas de trânsito de maneira envolvente e divertida.
 
 - **Contribuições:**
