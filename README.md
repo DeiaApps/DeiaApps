@@ -73,7 +73,9 @@ Sinto orgulho de ter realizado cada aspecto, contribuindo para cada detalhe do j
   Este projeto representou um importante marco no meu desenvolvimento como programador mobile, inspirado por aulas, proporcionou aprendizados valiosos, consolidando minhas habilidades em Java e desenvolvimento Android.
 <br><br>
 ### Training Projects 👩‍💻
-
+Esses são projetos em que estou trabalhando e aprimorando minhas habilidades.<br><br>
+- [Ifood](https://github.com/DeiaApps/Ifood) 🔍 Projeto de conclusão de curso, ainda em desenvolvimento.
+- 
 <br><br>
 🌱 Currently, I'm also focused on expanding my skills in mobile programming...
 
