@@ -52,7 +52,7 @@ Sinto orgulho de ter realizado cada aspecto, contribuindo para cada detalhe do j
   Este projeto foi inspirado no app anterior e desenvolvido integralmente por mim, da concepção até a implementação. Os desafios enfrentados, como a inclusão de funcionalidades específicas solicitadas pelos usuários, destacam a flexibilidade e o comprometimento no atendimento às necessidades da comunidade do app.
 <br><br> 
 
-- [Multilistas Plus](https://play.google.com/store/apps/details?id=com.deiapp.listastarefas) 🔍 - **Meu Primeiro Projeto Mobile 📱.**<br>
+- [Multilistas](https://play.google.com/store/apps/details?id=com.deiapp.listastarefas) 🔍 - **Meu Primeiro Projeto Mobile 📱.**<br>
   
 **Desafios Superados:**
   - O maior desafio foi cumprir as exigências para a publicação na Play Store.
