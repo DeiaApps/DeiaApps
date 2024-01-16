@@ -5,33 +5,74 @@
 <br><br>
 ## 🚀 Proficiencies:
 | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" /> | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" /> | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> | <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> |
-|
+| --- | --- | --- | --- | --- | --- |
+
 <br><br>
 ## 📂 Projects 
-### Published Projects 👩‍💻
-Esses são projetos concluídos e publicados. Confira na Google Play e divirta-se!
--**Placas Game.** Jogo de Memória de Placas de Trânsito: Educação e Diversão. [Placas Game](https://play.google.com/store/apps/details?id=com.deiapp.plakasgame) 🔍
+### Published Projects 🔥
+Esses são projetos concluídos e publicados. Confira na Google Play e divirta-se!<br><br>
+- [Placas Game](https://play.google.com/store/apps/details?id=com.deiapp.plakasgame) 🔍 - **Jogo de Memória de Placas de Trânsito para Educação e Diversão.**<br>
   
-Desenvolvi este jogo de memória  voltado para educação no trânsito, onde os jogadores podem aprender os significados das placas de trânsito de maneira envolvente e divertida.
+**Desafios Superados:**
+  - Desenvolvimento completo do projeto, desde o design, implementação em Java, gerenciamento do banco de dados Firebase, elaboração da política de privacidade até a publicação do aplicativo na Play Store.
+  - Minucioso planejamento de cada detalhe do aplicativo, priorizando a satisfação do usuário.
+  - Uso de ferramentas de edição de imagens.
+  - Criação de um sistema de ranking utilizando o Realtime Database, permitindo que os usuários comparem seu desempenho com outros jogadores.
+  - Manutenção dos 10 melhores sempre atualizados, proporcionando uma competição dinâmica.
 
-- **Contribuições:**
-  - Design e criação de imagens
-  - Implementação do jogo e funcionalidades
-  - Gerenciamento do banco de dados Firebase
-  - Elaboração da política de privacidade
-  - Publicação do aplicativo
-
-- **Desafios Superados:**
-  - Programação em Java
-  - Criação de um sistema de ranking usando o Realtime Database
-  - Manutenção dos 10 melhores sempre atualizados para a visualização do usuário
-
-Este projeto foi uma jornada solitária, desde a concepção até a implementação. Sinto orgulho de ter realizado cada aspecto, contribuindo para cada detalhe do jogo e proporcionando uma experiência educativa única para os usuários.
+**Tecnologias e Funcionalidades Destacadas:**
+  - **Firebase:** Banco de dados, cadastro, autenticação de usuário e ranking. 
+  - **Adapter e ArrayList:** Para manipulação de dados.
+  - **Base64:** Para codificar e decodificar informações.
+  - **Getters & Setters:** Para gerenciamento de dados.
+  - **DialogInterface:** Para interações com o usuário.
+  - **SystemClock:** Para operações relacionadas ao tempo.
+  - **ViewPager:** para uma navegação intuitiva entre as telas.<br>
+  
+Este projeto foi uma jornada solitária, desde a concepção até a implementação.
+Sinto orgulho de ter realizado cada aspecto, contribuindo para cada detalhe do jogo e proporcionando uma experiência educativa única para os usuários.
 <br><br>
-- [Multilistas Plus](https://play.google.com/store/apps/details?id=com.deiaapp.multilistasplus) - **Multilistas Plus: App para Organizar Suas Listas**
 
+- [Multilistas Plus](https://play.google.com/store/apps/details?id=com.deiaapp.multilistasplus) 🔍 - **App de Listas, Evolução do Multilistas 🚀.**<br>
+  
+**Desafios Superados:**
+  - Implementação das opções de compartilhamento e entrada por voz, atendendo a solicitações dos usuários..
+  - Upgrades regulares para atender às necessidades e sugestões dos usuários.
+  - Respostas proativas aos feedbacks e interações na Google Play.
+
+**Tecnologias e Funcionalidades Destacadas:**
+  - **Java:** Linguagem de programação principal. 
+  - **RecognizerIntent:** Para entrada de voz.
+  - **ActivityResultLauncher:** Facilita o lançamento de atividades.
+  - **CardView:** Componente para exibição de informações em cartões.
+  - **Serializable:** Para possibilitar a passagem de dados entre componentes.
+  - **Action Send:** Utilizado para compartilhamento de conteúdo.
+  - **SQLite:** Banco de dados local para armazenamento eficiente.<br>
+
+  Este projeto foi inspirado no app anterior e desenvolvido integralmente por mim, da concepção até a implementação. Os desafios enfrentados, como a inclusão de funcionalidades específicas solicitadas pelos usuários, destacam a flexibilidade e o comprometimento no atendimento às necessidades da comunidade do app.
+<br><br> 
+
+- [Multilistas Plus](https://play.google.com/store/apps/details?id=com.deiapp.listastarefas) 🔍 - **Meu Primeiro Projeto Mobile 📱.**<br>
+  
+**Desafios Superados:**
+  - O maior desafio foi cumprir as exigências para a publicação na Play Store.
+  - Aplicar os conhecimentos adquiridos de maneira adequada na construção do app.
+
+**Tecnologias e Funcionalidades Destacadas:**
+  - **Java:** Linguagem de programação principal. 
+  - **DialogInterface:** Para interações com o usuário.
+  - **RecyclerItemClickListener:** Facilitando a detecção de cliques em elementos de uma RecyclerView.
+  - **AdapterView:** Utilizado para conectar a interface com os dados.
+  - **List:** Estrutura de dados fundamental para armazenar e manipular listas.
+  - **Serializable:** Para possibilitar a passagem de dados entre componentes.
+  - **SQLite:** Banco de dados utilizado para armazenamento local.
+  - **Menu:** Implementação para oferecer opções adicionais aos usuários.
+  - **SharedPreferences:** Para armazenamento de dados simples e persistentes.
+  - **Bundle:** Utilizado na passagem de dados entre componentes.<br>
+
+  Este projeto representou um importante marco no meu desenvolvimento como programador mobile, inspirado por aulas, proporcionou aprendizados valiosos, consolidando minhas habilidades em Java e desenvolvimento Android.
 <br><br>
-### 🔥Training Projects
+### Training Projects 👩‍💻
 
 <br><br>
 🌱 Currently, I'm also focused on expanding my skills in mobile programming...
