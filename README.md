@@ -29,6 +29,14 @@ Esses são projetos concluídos e publicados. Confira na Google Play e divirta-s
   - **SystemClock:** Para operações relacionadas ao tempo.
   - **ViewPager:** para uma navegação intuitiva entre as telas.<br>
   
+  <table>
+  <tr>
+    <td><img src="https://github.com/DeiaApps/DeiaApps/blob/main/cadastro%20login%20reset.gif" alt="Telas Login, Cadastro, Reset" width="150"/></td>
+    <td><img src="https://github.com/DeiaApps/DeiaApps/blob/main/jogo.gif"width="150"/></td>
+    <td><img src="https://github.com/DeiaApps/DeiaApps/blob/main/login%20logout%20sobre%20ajuda%20record.gif" width="150"/></td>
+  </tr> 
+  </table>
+  
 Este projeto foi uma jornada solitária, desde a concepção até a implementação.
 Sinto orgulho de ter realizado cada aspecto, contribuindo para cada detalhe do jogo e proporcionando uma experiência educativa única para os usuários.
 <br><br>
