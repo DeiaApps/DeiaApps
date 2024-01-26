@@ -10,7 +10,7 @@
 <br><br>
 ## 📂 Projects 
 ### Published Projects 🔥
-Esses são projetos concluídos e publicados. Confira na Google Play e divirta-se!<br><br>
+Aqui estão meus projetos concluídos e publicados. Confira na Google Play e divirta-se!<br><br>
 - [Placas Game](https://play.google.com/store/apps/details?id=com.deiapp.plakasgame) 🔍 - **Jogo de Memória de Placas de Trânsito para Educação e Diversão.**<br>
   
 **Desafios Superados:**
@@ -37,7 +37,7 @@ Esses são projetos concluídos e publicados. Confira na Google Play e divirta-s
   </tr> 
   </table>
   
-Este projeto foi uma jornada solitária, desde a concepção até a implementação.
+Esta foi uma jornada solitária, da concepção até a implementação.
 Sinto orgulho de ter realizado cada aspecto, contribuindo para cada detalhe do jogo e proporcionando uma experiência educativa única para os usuários.
 <br><br>
 
@@ -57,7 +57,16 @@ Sinto orgulho de ter realizado cada aspecto, contribuindo para cada detalhe do j
   - **Action Send:** Utilizado para compartilhamento de conteúdo.
   - **SQLite:** Banco de dados local para armazenamento eficiente.<br>
 
-  Este projeto foi inspirado no app anterior e desenvolvido integralmente por mim, da concepção até a implementação. Os desafios enfrentados, como a inclusão de funcionalidades específicas solicitadas pelos usuários, destacam a flexibilidade e o comprometimento no atendimento às necessidades da comunidade do app.
+  <table>
+  <tr>
+    <td><img src="https://github.com/DeiaApps/DeiaApps/blob/main/1P.png" alt="Tela padrão inicial" width="150"/></td>
+    <td><img src="https://github.com/DeiaApps/DeiaApps/blob/main/2P.png" alt="Tela de exclusão total" width="150"/></td>
+    <td><img src="https://github.com/DeiaApps/DeiaApps/blob/main/3P.png" alt="Ativando microfone" width="150"/></td>
+    <td><img src="https://github.com/DeiaApps/DeiaApps/blob/main/4P.png" alt="Tela exclusão por seleção" width="150"/></td>
+  </tr> 
+  </table>
+
+  Inspirado no app anterior e desenvolvido integralmente por mim, da concepção até a implementação. Os desafios enfrentados, como a inclusão de funcionalidades específicas solicitadas pelos usuários, destacam a flexibilidade e o comprometimento no atendimento às necessidades da comunidade do app.
 <br><br> 
 
 - [Multilistas](https://play.google.com/store/apps/details?id=com.deiapp.listastarefas) 🔍 - **Meu Primeiro Projeto Mobile 📱.**<br>
@@ -78,10 +87,19 @@ Sinto orgulho de ter realizado cada aspecto, contribuindo para cada detalhe do j
   - **SharedPreferences:** Para armazenamento de dados simples e persistentes.
   - **Bundle:** Utilizado na passagem de dados entre componentes.<br>
 
+  <table>
+  <tr>
+    <td><img src="https://github.com/DeiaApps/DeiaApps/blob/main/mercado.png" alt="Tela padrão inicial" width="150"/></td>
+    <td><img src="https://github.com/DeiaApps/DeiaApps/blob/main/add.png" alt="Tela de inserção de " width="150"/></td>
+    <td><img src="https://github.com/DeiaApps/DeiaApps/blob/main/divDelOne.png" alt="Tela de exclusão individual" width="150"/></td>
+    <td><img src="https://github.com/DeiaApps/DeiaApps/blob/main/DelAll.png" alt="Tela de exclusão total" width="150"/></td>
+  </tr> 
+  </table>
+
   Este projeto representou um importante marco no meu desenvolvimento como programador mobile, inspirado por aulas, proporcionou aprendizados valiosos, consolidando minhas habilidades em Java e desenvolvimento Android.
 <br><br>
 ### Training Projects 👩‍💻
-Esses são projetos em que estou trabalhando e aprimorando minhas habilidades.<br><br>
+Explore os projetos em que estou trabalhando e aprimorando minhas habilidades.<br><br>
 - [Ifood](https://github.com/DeiaApps/Ifood) 🔍 Projeto de conclusão de curso, ainda em desenvolvimento.
 - 
 <br><br>
