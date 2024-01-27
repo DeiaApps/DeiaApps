@@ -10,24 +10,24 @@
 <br><br>
 ## 📂 Projects 
 ### Published Projects 🔥
-Aqui estão meus projetos concluídos e publicados. Confira na Google Play e divirta-se!<br><br>
-- [Placas Game](https://play.google.com/store/apps/details?id=com.deiapp.plakasgame) 🔍 - **Jogo de Memória de Placas de Trânsito para Educação e Diversão.**<br>
+Here are my completed and published projects. Check them out on Google Play and have fun!<br><br>
+- [Placas Game](https://play.google.com/store/apps/details?id=com.deiapp.plakasgame) 🔍 - **Traffic Sign Memory Game for Education and Entertainment.**<br>
   
-**Desafios Superados:**
-  - Desenvolvimento completo do projeto, desde o design, implementação em Java, gerenciamento do banco de dados Firebase, elaboração da política de privacidade até a publicação do aplicativo na Play Store.
-  - Minucioso planejamento de cada detalhe do aplicativo, priorizando a satisfação do usuário.
-  - Uso de ferramentas de edição de imagens.
-  - Criação de um sistema de ranking utilizando o Realtime Database, permitindo que os usuários comparem seu desempenho com outros jogadores.
-  - Manutenção dos 10 melhores sempre atualizados, proporcionando uma competição dinâmica.
+**Challenges Overcome:**
+  - Complete project development, from design, implementation in Java, Firebase database management,  privacy policy creation to app publication on the Play Store.
+  - Meticulous planning of every detail of the application, prioritizing user satisfaction.
+  - Use of image editing tools.
+  - Creation of a ranking system using the Realtime Database, allowing users to compare their performance with other players.
+  - Keeping the top 10 always up to date, providing dynamic competition.
 
-**Tecnologias e Funcionalidades Destacadas:**
-  - **Firebase:** Banco de dados, cadastro, autenticação de usuário e ranking. 
-  - **Adapter e ArrayList:** Para manipulação de dados.
-  - **Base64:** Para codificar e decodificar informações.
-  - **Getters & Setters:** Para gerenciamento de dados.
-  - **DialogInterface:** Para interações com o usuário.
-  - **SystemClock:** Para operações relacionadas ao tempo.
-  - **ViewPager:** para uma navegação intuitiva entre as telas.<br>
+**Featured Technologies and Functionalities:**
+  - **Firebase:** Database, registration, user authentication, and ranking.
+  - **Adapter e ArrayList:** For data manipulation.
+  - **Base64:** For encode and decode information.
+  - **Getters & Setters:** For data management.
+  - **DialogInterface:** For user interactions.
+  - **SystemClock:** For time-related operations..
+  - **ViewPager:** For intuitive navigation between screens.<br>
   
   <table>
   <tr>
@@ -37,25 +37,25 @@ Aqui estão meus projetos concluídos e publicados. Confira na Google Play e div
   </tr> 
   </table>
   
-Esta foi uma jornada solitária, da concepção até a implementação.
-Sinto orgulho de ter realizado cada aspecto, contribuindo para cada detalhe do jogo e proporcionando uma experiência educativa única para os usuários.
+This was a solitary journey, from conception to implementation. 
+I'm proud to have accomplished every aspect, contributing to every detail of the game and providing a unique educational experience for the users
 <br><br>
 
-- [Multilistas Plus](https://play.google.com/store/apps/details?id=com.deiaapp.multilistasplus) 🔍 - **App de Listas, Evolução do Multilistas 🚀.**<br>
+- [Multilistas Plus](https://play.google.com/store/apps/details?id=com.deiaapp.multilistasplus) 🔍 - **Lists App, Evolution of Multilistas 🚀.**<br>
   
-**Desafios Superados:**
-  - Implementação das opções de compartilhamento e entrada por voz, atendendo a solicitações dos usuários..
-  - Upgrades regulares para atender às necessidades e sugestões dos usuários.
-  - Respostas proativas aos feedbacks e interações na Google Play.
+**Challenges Overcome:**
+  - Implementation of the sharing and voice input options, in response to user requests.
+  - Regular upgrades to meet users’ needs and suggestions.
+  - Proactive responses to feedback and interactions on Google Play.
 
-**Tecnologias e Funcionalidades Destacadas:**
-  - **Java:** Linguagem de programação principal. 
-  - **RecognizerIntent:** Para entrada de voz.
-  - **ActivityResultLauncher:** Facilita o lançamento de atividades.
-  - **CardView:** Componente para exibição de informações em cartões.
-  - **Serializable:** Para possibilitar a passagem de dados entre componentes.
-  - **Action Send:** Utilizado para compartilhamento de conteúdo.
-  - **SQLite:** Banco de dados local para armazenamento eficiente.<br>
+**Featured Technologies and Functionalities:**
+  - **Java:** Primary programming language. 
+  - **RecognizerIntent:** For voice input.
+  - **ActivityResultLauncher:** Facilitates activity launching.
+  - **CardView:**  Component for displaying information in cards.
+  - **Serializable:** Enables data passing between components.
+  - **Action Send:** Used for sharing content.
+  - **SQLite:** Local database for efficient storage.<br>
 
   <table>
   <tr>
@@ -66,26 +66,26 @@ Sinto orgulho de ter realizado cada aspecto, contribuindo para cada detalhe do j
   </tr> 
   </table>
 
-  Inspirado no app anterior e desenvolvido integralmente por mim, da concepção até a implementação. Os desafios enfrentados, como a inclusão de funcionalidades específicas solicitadas pelos usuários, destacam a flexibilidade e o comprometimento no atendimento às necessidades da comunidade do app.
+  Inspired by the previous app and developed entirely by myself, from conception to implementation. The challenges faced, such as the inclusion of specific functionalities requested by users, highlight the flexibility and commitment to meeting the needs of the app’s community.
 <br><br> 
 
-- [Multilistas](https://play.google.com/store/apps/details?id=com.deiapp.listastarefas) 🔍 - **Meu Primeiro Projeto Mobile 📱.**<br>
+- [Multilistas](https://play.google.com/store/apps/details?id=com.deiapp.listastarefas) 🔍 - **My First Mobile Project 📱.**<br>
   
-**Desafios Superados:**
-  - O maior desafio foi cumprir as exigências para a publicação na Play Store.
-  - Aplicar os conhecimentos adquiridos de maneira adequada na construção do app.
+**Challenges Overcome:**
+  - The biggest challenge was meeting the requirements for publication on the Play Store.
+  - Applying the knowledge acquired appropriately when building the app.
 
-**Tecnologias e Funcionalidades Destacadas:**
-  - **Java:** Linguagem de programação principal. 
-  - **DialogInterface:** Para interações com o usuário.
-  - **RecyclerItemClickListener:** Facilitando a detecção de cliques em elementos de uma RecyclerView.
-  - **AdapterView:** Utilizado para conectar a interface com os dados.
-  - **List:** Estrutura de dados fundamental para armazenar e manipular listas.
-  - **Serializable:** Para possibilitar a passagem de dados entre componentes.
-  - **SQLite:** Banco de dados utilizado para armazenamento local.
-  - **Menu:** Implementação para oferecer opções adicionais aos usuários.
-  - **SharedPreferences:** Para armazenamento de dados simples e persistentes.
-  - **Bundle:** Utilizado na passagem de dados entre componentes.<br>
+**Featured Technologies and Functionalities:**
+  - **Java:** Primary programming language. 
+  - **DialogInterface:** For user interactions.
+  - **RecyclerItemClickListener:** Facilitating click detection on elements of a RecyclerView.
+  - **AdapterView:** Used to connect the interface to the data.
+  - **List:** Fundamental data structure for storing and manipulating lists.
+  - **Serializable:** To enable data passing between components.
+  - **SQLite:** Database used for local storage.
+  - **Menu:** Implementation to offer additional options to users.
+  - **SharedPreferences:** For simple and persistent data storage.
+  - **Bundle:** Used to pass data between components.<br>
 
   <table>
   <tr>
@@ -96,11 +96,11 @@ Sinto orgulho de ter realizado cada aspecto, contribuindo para cada detalhe do j
   </tr> 
   </table>
 
-  Este projeto representou um importante marco no meu desenvolvimento como programador mobile, inspirado por aulas, proporcionou aprendizados valiosos, consolidando minhas habilidades em Java e desenvolvimento Android.
+  This project represented an important milestone in my development as a mobile programmer, inspired by classes, it provided valuable learning, consolidating my skills in Java and Android development.
 <br><br>
 ### Training Projects 👩‍💻
-Explore os projetos em que estou trabalhando e aprimorando minhas habilidades.<br><br>
-- [Ifood](https://github.com/DeiaApps/Ifood) 🔍 Projeto de conclusão de curso, ainda em desenvolvimento.
+Explore the projects where I'm working on and enhancing my skills.<br><br>
+- [Ifood](https://github.com/DeiaApps/Ifood) 🔍 Final project to receive course completion certificate,  still under development.
 - 
 <br><br>
 🌱 Currently, I'm also focused on expanding my skills in mobile programming...
