@@ -4,7 +4,7 @@
 - 💞️ I'm interested in collaborating on solutions to tackle business challenges and meet market requirements.
 <br><br>
 
-## 🚀 Proficiencies:
+## 🚀 Proficiencies
 | <img width='130%' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" /> | <img width='130%' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" /> | <img width='130%' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> | <img width='130%' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> | <img width='130%' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> | <img width='130%' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> | <img width='130%' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /> |
 | --- | --- | --- | --- | --- | --- | --- |
 
@@ -101,12 +101,12 @@ I'm proud to have accomplished every aspect, contributing to every detail of the
   This project represented an important milestone in my development as a mobile programmer, inspired by classes, it provided valuable learning, consolidating my skills in Java and Android development.
 <br><br>
 ### Training Projects 👩‍💻
-Explore the projects where I'm working on and enhancing my skills.<br><br>
+Explore the projects where I'm working on and enhancing my skills.<br>
 - [Ifood](https://github.com/DeiaApps/Ifood) 🔍 Final project to receive course completion certificate,  still under development.
-- 
+- [Audiobook Track](https://github.com/DeiaApps/AudiobookTrack) 🔍 Web application developed in Visual Studio Code with JavaScript, HTML and CSS for listening to books.
 <br><br>
-🌱 Currently, I'm also focused on expanding my skills in mobile programming...
 
+🌱 Currently, I'm also focused on expanding my skills in mobile programming...
 ### How to Reach Me:
 Feel free to drop me an email at&nbsp;
 📫 [andreaaf06@gmail.com](mailto:andreaaf06@gmail.com)
