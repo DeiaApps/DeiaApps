@@ -102,7 +102,8 @@ I'm proud to have accomplished every aspect, contributing to every detail of the
 <br><br>
 ### Training Projects 👩‍💻
 Explore the projects where I'm working on and enhancing my skills.<br>
-- [Ifood](https://github.com/DeiaApps/Ifood) 🔍 Final project to receive course completion certificate,  still under development.
+- [Ifood](https://github.com/DeiaApps/Ifood) 🔍 Final project to receive course completion certificate,  still under development. 
+- [Apple Watch Rep](https://github.com/DeiaApps/Apple-Watch-Rep) 🔍 Interactive web page developed in Visual Studio Code using JavaScript, HTML, and CSS for customizing the Apple Watch.
 - [Audiobook Track](https://github.com/DeiaApps/AudiobookTrack) 🔍 Web application developed in Visual Studio Code with JavaScript, HTML and CSS for listening to books.
 <br><br>
 
